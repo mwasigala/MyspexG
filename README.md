@@ -1,4 +1,4 @@
-### Computer Science Graduate
+### Computer Scientist
 
 - 🔭 I’m currently working on ... Laravel
 - 🌱 I’m currently learning ... Laravel and React js
