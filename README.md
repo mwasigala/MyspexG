@@ -1,4 +1,4 @@
-###  :wave: Hi there, I'm Caroline Mwasigala
+###  :wave: Hi there
 
 ### I'm a Computer Scientist | Poet | Philomath
 
