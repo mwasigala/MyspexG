@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
   <br>
-  <a href="https://stackoverflow.com/users/10883380/visal-rajapakse">
+  <a href="https://stackoverflow.com/users/13104348/caroline-mwasigala">
     <img src="https://img.shields.io/badge/Stack%20Overflow-124-F47F24?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
 </a>
 </div>
