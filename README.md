@@ -2,7 +2,9 @@
 
 ### I'm a Computer Scientist | Poet | Philomath
 
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
 - 🔭 I’m currently working on ... Laravel
 - 🌱 I’m currently learning ... Laravel and React js
