@@ -13,6 +13,10 @@
   <a href="https://twitter.com/myspexg">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
+  <br>
+  <a href="https://stackoverflow.com/users/10883380/visal-rajapakse">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-124-F47F24?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+</a>
 </div>
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
