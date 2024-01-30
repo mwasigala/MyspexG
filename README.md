@@ -15,7 +15,7 @@
   </a>
   <br>
   <a href="https://stackoverflow.com/users/13104348/caroline-mwasigala">
-    <img src="https://img.shields.io/badge/Stack%20Overflow-144-F47F24?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-154-F47F24?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge">
 </a>
 </div>
 <div align="center">
